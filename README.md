@@ -8,8 +8,6 @@
 
 ## Learning Objectives
 
-By the end of this workshop, you will be able to:
-
 *   Explain why concurrency causes race conditions.
 *   Use `std::mutex`, `std::lock_guard`, and `std::scoped_lock` to prevent race conditions.
 *   Use `std::atomic` for simple, lock-free operations.
